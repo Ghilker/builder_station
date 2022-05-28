@@ -159,6 +159,13 @@ Temporary Items
 *.sublime-project
 *.sublime-workspace
 
+#Visual studio stuff
+*.vscode/*
+/tools/MapAtmosFixer/MapAtmosFixer/obj/*
+/tools/MapAtmosFixer/MapAtmosFixer/bin/*
+/tools/CreditsTool/bin/*
+/tools/CreditsTool/obj/*
+
 #GitHub Atom
 .atom-build.json
 
